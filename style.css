@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Speeday;
+    src: url('czcionki/Speeday-Regular-FFP.ttf');
+}
+@font-face {
+    font-family: Reno;
+    src: url('czcionki/Renogare-Regular.otf');
+}
+
+*{
+    margin: 0;
+    font-family: Reno;
+}
+
+#logoGH{
+    font-family: Speeday;
+}
+
+#awlogoGH{
+    height: 70px;
+}
